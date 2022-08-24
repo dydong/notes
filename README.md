@@ -1,14 +1,14 @@
 <div align="center">
-<h1>dyd note's</h1>
+<h1>dyd notes</h1>
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/dyd note's)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/dyd note's.svg)](https://github.com/eryajf/dyd note's/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/dyd note's)](https://github.com/eryajf/dyd note's/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/dyd note's)](https://github.com/eryajf/dyd note's/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/dyd note's)](https://github.com/eryajf/dyd note's/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/dyd note's.svg)](https://github.com/eryajf/dyd note's)
-[![website eryajf.github.io/dyd note's](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/dyd note's.svg)](https://eryajf.github.io/dyd note's/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/dyd notes)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/dyd notes.svg)](https://github.com/eryajf/dyd notes/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/dyd notes)](https://github.com/eryajf/dyd notes/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/dyd notes)](https://github.com/eryajf/dyd notes/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/dyd notes)](https://github.com/eryajf/dyd notes/blob/main/LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/dyd notes.svg)](https://github.com/eryajf/dyd notes)
+[![website eryajf.github.io/dyd notes](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/dyd notes.svg)](https://eryajf.github.io/dyd notes/)
 
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
@@ -40,7 +40,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[dyd note's](https://github.com/eryajf/dyd note's)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[dyd notes](https://github.com/eryajf/dyd notes)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_153908.png)
 
